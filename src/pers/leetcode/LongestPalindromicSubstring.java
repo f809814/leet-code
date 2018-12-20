@@ -3,7 +3,8 @@ package pers.leetcode;
 /**
  * @author fu
  * @date 2018/12/14 - 21:05
- * 暴力法
+ * @链接：https://leetcode-cn.com/problems/longest-palindromic-substring/
+ * 暴力解法
  */
 public class LongestPalindromicSubstring {
     public  static boolean isPalindrome(String s) {
